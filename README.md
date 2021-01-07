@@ -1,9 +1,6 @@
 # LFCInter
 
-a C interpreter I have developped as final learning project of my master, long year back.
-
-After sight modifications, I made it compilable in 2021 ... 25 years afterward :)
-
+a C interpreter that I developed as my master's final learning project a long time ago. After few modifications, I made it compilable in 2021 ... 25 years later :)
 Full documentation can be found on my [website](http://destroyedlolo.info/Developpement/LFCInter/)
 
 ---
