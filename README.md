@@ -1,4 +1,4 @@
-# LFCinter
+# LFCInter
 
 a C interpreter I have developped as final learning project of my master, long year back.
 
